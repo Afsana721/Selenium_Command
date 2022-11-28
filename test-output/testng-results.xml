@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="7609" started-at="2022-11-27T00:45:47 CST" finished-at="2022-11-27T00:45:55 CST">
+  <suite name="Default suite" duration-ms="10566" started-at="2022-11-27T18:20:30 CST" finished-at="2022-11-27T18:20:41 CST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="7609" started-at="2022-11-27T00:45:47 CST" finished-at="2022-11-27T00:45:55 CST">
-      <class name="selenium_Command.Browser_Windows_HandleBY_Selenium">
-        <test-method status="PASS" signature="setup()[pri:0, instance:selenium_Command.Browser_Windows_HandleBY_Selenium@52feb982]" name="setup" is-config="true" duration-ms="2064" started-at="2022-11-27T00:45:47 CST" finished-at="2022-11-27T00:45:49 CST">
+    <test name="Default test" duration-ms="10566" started-at="2022-11-27T18:20:30 CST" finished-at="2022-11-27T18:20:41 CST">
+      <class name="selenium_Command.Browser_Command">
+        <test-method status="PASS" signature="setup()[pri:0, instance:selenium_Command.Browser_Command@52feb982]" name="setup" is-config="true" duration-ms="2926" started-at="2022-11-27T18:20:30 CST" finished-at="2022-11-27T18:20:33 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="gebrowserCommand()[pri:1, instance:selenium_Command.Browser_Windows_HandleBY_Selenium@52feb982]" name="gebrowserCommand" duration-ms="5514" started-at="2022-11-27T00:45:49 CST" finished-at="2022-11-27T00:45:55 CST">
+        <test-method status="PASS" signature="gebrowserCommand()[pri:1, instance:selenium_Command.Browser_Command@52feb982]" name="gebrowserCommand" duration-ms="7605" started-at="2022-11-27T18:20:33 CST" finished-at="2022-11-27T18:20:41 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- gebrowserCommand -->
-      </class> <!-- selenium_Command.Browser_Windows_HandleBY_Selenium -->
+      </class> <!-- selenium_Command.Browser_Command -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
